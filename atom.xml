@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Welcome to my Blog.]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yuesekillme.net/"/>
+  <updated>2016-01-10T03:16:25.358Z</updated>
+  <id>http://yuesekillme.net/</id>
+  
+  <author>
+    <name><![CDATA[yuesekillme]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello FOFO]]></title>
+    <link href="http://yuesekillme.net/2016/01/09/Hello%20FOFO/"/>
+    <id>http://yuesekillme.net/2016/01/09/Hello FOFO/</id>
+    <published>2016-01-10T03:16:25.358Z</published>
+    <updated>2016-01-10T03:16:25.358Z</updated>
+    <content type="html"><![CDATA[<p>This is my first blog.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is my first blog.</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
